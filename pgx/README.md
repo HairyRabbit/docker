@@ -2,7 +2,7 @@
 
 PostgreSQL
 
-- postgreSQL 13
+- postgreSQL 13.1
 - pgxn
 - pgTap
 - plv8 (TODO)
